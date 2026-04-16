@@ -1,0 +1,5 @@
+1) instead of writing everything inside the server.js file we should seperate the 
+   route and write inside it own folder (routes);
+   this make the code more readable and keep the file structure easy and clean
+
+2) improving log by adding color to see the difference between and error and successfull connection  as differentiating in terminal is little messy,,,   
